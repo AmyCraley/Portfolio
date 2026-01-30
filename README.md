@@ -1,2 +1,2 @@
 # Portfolio
-Personal projects
+Personal projects as I explore and experiment with coding.
